@@ -1,0 +1,2 @@
+Laptop,1,1500.0
+Earphone,2,200

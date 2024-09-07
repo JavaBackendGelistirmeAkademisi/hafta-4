@@ -1,0 +1,73 @@
+Customer: Aslıhan Tuna
+Products
+Earphone is 200.0$ and stock status 8
+
+Customer: Aslıhan Tuna
+Products
+Earphone is 200.0$ and stock status 8
+
+Customer: Aslıhan Tuna
+Products
+Earphone is 200.0$ and stock status 8
+
+Customer: Aslıhan Tuna
+Products
+Earphone is 200.0$ and stock status 8
+
+Customer: Aslıhan Tuna
+Products
+Earphone is 200.0$ and stock status 8
+
+Customer: Aslıhan Tuna
+Products
+Earphone is 200.0$ and stock status 8
+
+Customer: Aslıhan Tuna
+Products
+Earphone is 200.0$ and stock status 8
+
+Customer: Aslıhan Tuna
+Products
+Earphone is 200.0$ and stock status 8
+
+Customer: Ceren
+Products:
+Laptop - 1500.0 - 1
+
+Customer: Ceren
+Products:
+Laptop - 1500.0 - 1
+
+Customer: Ceren
+Products:
+Laptop - 1500.0 - 1
+
+Customer: Ceren
+Products:
+Laptop - 1500.0 - 1
+
+Customer: Ceren
+Products:
+Laptop - 1500.0 - 1
+
+Customer: Aslıhan Tuna
+Products
+Earphone is 200.0$ and stock status 1
+
+Customer: Aslıhan Tuna
+Products
+Product: EarphonePrice: 200.0Number of product added: 1
+
+Customer: Aslıhan Tuna
+Products
+Product: Earphone Price: 200.0 Number of product added: 1
+
+Customer: Aslıhan Tuna
+Products
+Product: Earphone Price: 200.0
+ Number of product added: 1
+
+Customer: Aslıhan Tuna
+Products
+Product: Earphone Price: 200.0$ Number of product added: 1
+
